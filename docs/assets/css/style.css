@@ -163,4 +163,7 @@ footer h2 {
     .benefits {
         width: 95%;
     }
+    #people {
+        height: 350px;
+    }
 }
